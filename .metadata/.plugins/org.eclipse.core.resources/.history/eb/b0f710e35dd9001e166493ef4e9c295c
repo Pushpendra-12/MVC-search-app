@@ -1,0 +1,5 @@
+package com.searchEngine.model;
+
+public class Student {
+
+}
